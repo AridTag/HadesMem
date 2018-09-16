@@ -1,3 +1,5 @@
+##### NOTE: This is a mirror of the HadesMem library primarily developed by RaptorFactor (Joshua Boyce)
+
 # HadesMem
 HadesMem is a C++-based memory editing library for Windows based applications, with the goal of providing a safe, generic, powerful, and efficient API.
 
